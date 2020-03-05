@@ -1,8 +1,9 @@
 - Form Login
   * Nama
   * Password
-  * Informasi kesalahan
+  * Check Box
 - Form Data penyewa
+  * Background Hitam
 - Form Lapangan yang disewakan
 - Form Data-data inputan
 - Icon menarik
