@@ -3,3 +3,4 @@ alif resolusi
 2. Belajar python,c#,c++,php,js
 3. Setiap pagi belajar algoritma
 4. Istirahat yang cukup
+5. Bangun jam 5 pagi
